@@ -19,4 +19,6 @@ Several issues found:
 - With Vin jumper close, 5V from USB back feeds the buck converter IC.  No harm but looks ugly as it lights the 12/24 LED.  For V3.01, moved to a 2 way jumper for 5V SRC, similar to RP23CNC power scehme. No back feeding the buck IC.
 - Wrong schmitt trigger IC for UART 1 header's EStop pin.  Fixed in V3.01.
 
+## June 17, 2026
 
+Status Update.  Ringing problems with buck converter forced redesign.  Will update here as we progress.
