@@ -25,4 +25,4 @@ Status Update.  Ringing problems with buck converter forced redesign.  Will upda
 
 ## Aug 24, 2026
 
-Status update.  Focused on the same buck converter design for RP23CNC V2.  Ringing problems solved, buck converter is stable and can deliver up to 1A of 5V current.  Applied same design to T41U5XBB V3.  Making a few more changes to the board. Many silk screen changes. Notably, added UART 2 and the ability to use 2.54mm 1x2 pin headers in place of the screw terminals. UART 2 will repurpose the Door and Limit B inputs. Getting close to sending it out for a prototype run.
+Status update.  Focused on the same buck converter design for RP23CNC V2.  Ringing problems solved, buck converter is stable and can deliver up to 1A of 5V current.  Applied same design to T41U5XBB V3.  Making a few more changes to the board. Many silk screen changes. Notably, added UART 2 and the ability to use 2.54mm 1x2 pin headers in place of the screw terminals. UART 2 will repurpose the Door and Limit B inputs. Getting close to sending it out for a prototype run.  Will call it V3.02.
