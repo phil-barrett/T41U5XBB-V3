@@ -22,3 +22,7 @@ Several issues found:
 ## June 17, 2026
 
 Status Update.  Ringing problems with buck converter forced redesign.  Will update here as we progress.
+
+## Aug 24, 2026
+
+Status update.  Focused on the buck converter design for RP23CNC V2.  Ringing problems solved.  Applied same design to T41U5XBB V3.  Making a few more changes to the board, mostly silk screen but also the ability to use a 2.54mm 1x2 pin header in place of the screw terminals. Getting close to sending out for a prototype run.
