@@ -4,7 +4,7 @@ Repository for an updated version of the T41U5XBB grblHAL Breakout Board
 
 ## Aug 24, 2026
 
-Status update. After a hiatus due to daughter's wedding planning and work, I returned to this project. Focused on the same buck converter design for RP23CNC V2.  Ringing problems solved, buck converter is stable and can deliver up to 1A of 5V current.  Applied same design to T41U5XBB V3.  Making a few more changes to the board. Many silk screen changes. Notably, added UART 2 and the ability to alternately use 2.54mm 1x2 pin headers in place of the screw terminals. UART 2 will repurpose the Door and Limit B inputs. Getting close to sending it out for a prototype run.  Will call it V3.02.
+Status update. After a hiatus due to daughter's wedding planning and work, I returned to this project. Focused on the same buck converter design for RP23CNC V2.  Ringing problems solved, buck converter is stable and can deliver up to 1A of 5V current.  Applied same design to T41U5XBB V3.  Making a few more changes to the board. Notably, added UART 2 and the ability to alternately use 2.54mm 1x2 pin headers in place of the screw terminals. UART 2 will repurpose the Door and Limit B inputs. Many silk screen changes. Getting close to sending it out for a prototype run.  Will call it V3.02.
 
 ## June 17, 2026
 
