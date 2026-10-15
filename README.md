@@ -7,6 +7,7 @@ Repository for an updated version of the T41U5XBB grblHAL Breakout Board
 Uploaded preliminary version the V3 User Manual.  Subject to change but pretty close to finished.
 First production run of V3 (V3.03) is complete and is in transit. Hope to make them available for sale this coming Monday or Tuesday.
 Changes from the V3.00 design: Reworked 5V buck regulator to solve ringing problem, modified LED and Opto resistors to handle power dissipation, general clean up of silkscreen, changed layout to allow JST XH for some headers, cosmetic tweaks. 
+VRML and STEP models uploaded.
 
 ## Sept 18, 2026
 
