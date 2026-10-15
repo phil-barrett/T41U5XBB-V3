@@ -9,6 +9,8 @@ First production run of V3 (V3.03) is complete and is in transit. Hope to make t
 Changes from the V3.00 design: Reworked 5V buck regulator to solve ringing problem, modified LED and Opto resistors to handle power dissipation, general clean up of silkscreen, changed layout to allow JST XH for some headers, cosmetic tweaks. 
 VRML and STEP models uploaded.
 
+![Image](Photos/V303-angled.jpg)
+
 ## Sept 18, 2026
 
 Received V3.02 proto run. Buck regulator is solid but needs a few more tweaks to be production worthy.
