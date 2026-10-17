@@ -2,6 +2,23 @@
 
 Repository for an updated version of the T41U5XBB grblHAL Breakout Board
 
+## What new?
+
+New features in Version 3
+- Supports 12V to 24V input
+- Onboard 5V regulator for both on and off board use
+- Reversed power polarity protection
+- Fully isolated Limit, Probe and Control inputs
+- UART1 has 3.3V/5V voltage translation and dedicated ESTOP pin
+- Second UART, board level configuration
+- Spindle Sync board level configuration
+- Alternate 2.54mm pin header footprints for the screw terminals
+- Ground plane exposed to mounting screws
+
+## Oct 16, 2026
+
+Received first batch of Boards from contract manufacturer. First blush looks very good. Full qualification and final burn-in testing underway. Photo shoot, final store product descriptions, tweaks to user manual, and numerous other activities are scheduled. Hope to product available by Tuesday Oct 20.
+
 ## Oct 14, 2026
 
 Uploaded preliminary version the V3 User Manual.  Subject to change but pretty close to finished.
