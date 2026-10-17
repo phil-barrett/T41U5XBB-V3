@@ -17,7 +17,7 @@ New features in Version 3
 
 ## Oct 16, 2026
 
-Received first batch of Boards from contract manufacturer. First blush looks very good. Full qualification and final burn-in testing underway. Photo shoot, final store product descriptions, tweaks to user manual, and numerous other activities are scheduled. Hope to product available by Tuesday Oct 20.
+Received first batch of Boards from contract manufacturer. First blush looks very good. Full qualification and final burn-in testing underway. Photo shoot, final store product descriptions, tweaks to user manual, and numerous other activities are scheduled. Hope to have product available in the store by Tuesday Oct 20.
 
 ## Oct 14, 2026
 
