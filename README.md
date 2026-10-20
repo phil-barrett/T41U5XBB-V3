@@ -1,6 +1,8 @@
 # T41U5XBB-V3
 
-Repository for an updated version of the T41U5XBB grblHAL Breakout Board
+Repository for Version 3 of the T41U5XBB grblHAL Breakout Board
+
+
 
 ## What new?
 
