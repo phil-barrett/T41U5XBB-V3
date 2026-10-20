@@ -17,6 +17,12 @@ New features in Version 3
 - Alternate 2.54mm pin header footprints for the screw terminals
 - Ground plane exposed to mounting screws
 
+## Oct 19, 2026
+
+T41U5XBB V3 is now [available for purchase](https://brookwood-design-77.myshopify.com/) in our store.
+
+Unfortunately, due to tariffs, increased transportation costs and even increases in PCB raw material costs have forced us to increase our prices. We think that, even with the price increases, our products are still an excellent value
+
 ## Oct 16, 2026
 
 Received first batch of Boards from contract manufacturer. First blush looks very good. Full qualification and final burn-in testing underway. Photo shoot, final store product descriptions, tweaks to user manual, and numerous other activities are scheduled. Hope to have product available in the store by Tuesday Oct 20.
