@@ -21,7 +21,7 @@ New features in Version 3
 
 T41U5XBB V3 is now [available for purchase](https://brookwood-design-77.myshopify.com/) in our store.
 
-Unfortunately, due to tariffs, increased transportation costs and even increases in PCB raw material costs have forced us to increase our prices. However, we think that, even with the price increases, our products are still an excellent value
+Unfortunately, tariffs, increased transportation costs and even increases in PCB raw material costs have forced us to increase our prices. However, we think that, even with the price increases, our products are still an excellent value
 
 ## Oct 16, 2026
 
